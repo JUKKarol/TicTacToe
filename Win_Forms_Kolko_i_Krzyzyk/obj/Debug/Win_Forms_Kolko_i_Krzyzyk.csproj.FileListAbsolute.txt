@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Win_Forms_Kolko_i_Krzyzyk\Win_Forms_Kolko_i_Krzyzyk\bin\Debug\Win_Forms_Kolko_i_Krzyzyk.exe.config
+C:\Users\Admin\source\repos\Win_Forms_Kolko_i_Krzyzyk\Win_Forms_Kolko_i_Krzyzyk\bin\Debug\Win_Forms_Kolko_i_Krzyzyk.exe
+C:\Users\Admin\source\repos\Win_Forms_Kolko_i_Krzyzyk\Win_Forms_Kolko_i_Krzyzyk\bin\Debug\Win_Forms_Kolko_i_Krzyzyk.pdb
+C:\Users\Admin\source\repos\Win_Forms_Kolko_i_Krzyzyk\Win_Forms_Kolko_i_Krzyzyk\obj\Debug\Win_Forms_Kolko_i_Krzyzyk.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Win_Forms_Kolko_i_Krzyzyk\Win_Forms_Kolko_i_Krzyzyk\obj\Debug\Win_Forms_Kolko_i_Krzyzyk.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Win_Forms_Kolko_i_Krzyzyk\Win_Forms_Kolko_i_Krzyzyk\obj\Debug\Win_Forms_Kolko_i_Krzyzyk.Form1.resources
+C:\Users\Admin\source\repos\Win_Forms_Kolko_i_Krzyzyk\Win_Forms_Kolko_i_Krzyzyk\obj\Debug\Win_Forms_Kolko_i_Krzyzyk.Properties.Resources.resources
+C:\Users\Admin\source\repos\Win_Forms_Kolko_i_Krzyzyk\Win_Forms_Kolko_i_Krzyzyk\obj\Debug\Win_Forms_Kolko_i_Krzyzyk.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Win_Forms_Kolko_i_Krzyzyk\Win_Forms_Kolko_i_Krzyzyk\obj\Debug\Win_Forms_Kolko_i_Krzyzyk.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Win_Forms_Kolko_i_Krzyzyk\Win_Forms_Kolko_i_Krzyzyk\obj\Debug\Win_Forms_Kolko_i_Krzyzyk.exe
+C:\Users\Admin\source\repos\Win_Forms_Kolko_i_Krzyzyk\Win_Forms_Kolko_i_Krzyzyk\obj\Debug\Win_Forms_Kolko_i_Krzyzyk.pdb
